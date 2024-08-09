@@ -3,13 +3,18 @@
 ![dashboard](https://github.com/user-attachments/assets/1f72a66d-0f2f-478c-a286-2adb6fd213c1)
 
 
-
 ## Table of content
+- [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion and Recommendation](#conclusion-and-recommendation)
 - [Limitation](limitation)
+
+
+# Project Overview
+
+Students sometimes suffer from unseen factors that contributes to their performance. These factors can be summed up as mental health. Studies have shown that the mental health of a student can contribute adversely to their performance. This study is to highlight the effect of each of these mental health attributes and give conclusion and recommendations.
 
 # Data Source:
 
