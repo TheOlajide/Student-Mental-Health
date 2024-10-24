@@ -1,6 +1,6 @@
 # Student-Mental-Health
 
-![dashboard](https://github.com/user-attachments/assets/3261275d-f103-4e3f-bf41-ce2392548985)
+![dashboard](https://github.com/user-attachments/assets/e251f88f-5925-44f6-9a4d-679ee15ec525)
 
 
 ## Table of content
